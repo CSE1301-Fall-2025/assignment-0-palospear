@@ -30,10 +30,52 @@ public class RobotInstructions  {
 		 * as you desire.
 		 */
 		robot.forward(60);
+		robot.forward(60);
 		robot.turnLeft(90);
 		robot.forward(23);
 		robot.turnRight(90);
 		robot.forward(80);
+
+		robot.forward(20);
+		robot.turnLeft(90);
+		robot.forward(60);
+		robot.turnRight(90);
+		robot.forward(130);
+		robot.turnLeft(90);
+		robot.forward(50);
+		robot.turnRight(90);
+		robot.forward(100);
+		robot.turnRight(90);
+		robot.forward(40);
+		robot.turnLeft(90);
+		robot.forward(80);
+		robot.turnRight(90);
+		robot.forward(110);
+		robot.turnRight(90);
+		robot.forward(30);
+		robot.turnLeft(90);
+		robot.forward(70);
+		robot.turnRight(90);
+		robot.forward(150);
+		robot.turnLeft(90);
+		robot.forward(40);
+		robot.turnRight(90);
+		robot.forward(50);
+		robot.turnRight(90);
+		robot.forward(40);
+		robot.turnLeft(90);
+		robot.forward(180);
+		robot.turnRight(90);
+		robot.forward(90);
+		robot.turnLeft(180);
+		robot.forward(40);
+		robot.turnRight(90);
+		robot.forward(120);
+		robot.turnRight(90);
+		robot.forward(40);
+		//I draw a tree.
+
+
 	}
 
 }
